@@ -4,6 +4,10 @@ In this project, we trained a DDQN agent to solve the autonomous vehicle highway
 
 ## Quick Demo
 The green vehicle is the ego-vehicle, trained with the DDQN algorithm. Blue vehicles are the traditional human-driven vehicles.
+
+
+
+
 ![](./demo/one_clip.gif)
 
 ## Authors
